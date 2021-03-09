@@ -1,0 +1,19 @@
+{
+  "name": "minimalist-portfolio",
+  "version": "1.0.0",
+  "description": "simple html portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilbateman/html-portfolio.git"
+  },
+  "author": "Neil Bateman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neilbateman/html-portfolio/issues"
+  },
+  "homepage": "https://github.com/neilbateman/html-portfolio#readme"
+}
